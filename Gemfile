@@ -50,6 +50,7 @@ group :development do
   gem 'popper_js', '~> 1.12.9'
   gem 'bootstrap', '~> 4.1.1'
   gem 'will_paginate', '~> 3.1.0'
+  gem 'simple_form'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
