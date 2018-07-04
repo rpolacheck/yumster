@@ -49,6 +49,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'popper_js', '~> 1.12.9'
   gem 'bootstrap', '~> 4.1.1'
+  gem 'will_paginate', '~> 3.1.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
